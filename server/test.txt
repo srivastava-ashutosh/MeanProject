@@ -1,0 +1,7 @@
+{
+    "firstName": "CK",
+    "lastName": "Pradhan",
+    "email": "chandrakanta@indianic.com",
+    "username": "ck",
+    "password": "ck"
+}
