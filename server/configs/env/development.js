@@ -6,6 +6,6 @@ module.exports = {
 	serverPort: '8888',
     tokenExpiry: 361440, // Note: in seconds! (1 day)
     adminEmails:'chandrakanta@indianic.com,chandrakanta1@indianic.com,chandrakanta2@indianic.com',
-    Gmailuser:'ashutosh.srivastava@indianic.com',
-    Gmailpassword:'ashutosh@9427383248'
+    Gmailuser:'',
+    Gmailpassword:''
 };
